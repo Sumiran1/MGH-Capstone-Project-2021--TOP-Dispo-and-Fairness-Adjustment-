@@ -1,0 +1,104 @@
+﻿Raw Feature,Modified text,Raw Answers,Modified Answers
+Injury type:,What was the patient's injury type?,blunt / penetrating,
+method_of_injury,What was the mechanism of injury?,"Blunt - Fall
+Blunt - MVT Pedal cyclist/pedestrian
+Blunt - MVT motorcyclist 
+Blunt - MVT occupant 
+Blunt - other
+Penetrating - Stab Wound
+Penetrating - Gunshot Wound
+Penetrating - Other/Mixed","Fall
+Pedestrian or cyclist struck by vehicle
+Motorcycle crash
+Motor vehicle crash
+Other blunt mechanism
+Stab Wound
+Gunshot Wound
+Other/Mixed"
+gender,Sex,Male / Female,
+age,Age,free text,
+gcstot1,What was the patient's GCS on arrival to the hospital?,3-15,
+oxysat1,What was the patient's oxygen saturation on presentation?,free text,
+sbp1,What was the patient's systolic blood pressure on arrival to the hospital?,free text,
+pulse1,What was the patient's heart rate on arrival to the hospital?,free text,
+diabetes,Does the patient have diabetes?,1-0,YES/NO
+cirrhosis,Does the patient have a history of cirrhosis,1-0,YES/NO
+congestive_heart_failure,Does the patient have a history of congestive heart failure,1-0,YES/NO
+current_smoker,Is the patient currently a smoker?,1-0,YES/NO
+chronic_renal_failure,Does the patient have a history of renal failure on dialysis?,1-0,YES/NO
+history_cva,Does the patient have a history of stroke?,,
+disseminated_cancer,Does the patient have a history of disseminated cancer?,,
+copd,Does the patient have a history of COPD?,,
+steroid,Is the patient currently taking steroids?,,
+history_MI,Does the patient have a history of an MI?,,
+history_pvd,Does the patient have a history of peripheral vascular disease?,,
+hypertension_medication,Is the patient on medication for hypertension?,,
+signsoflife,Did the patient have signs of life on arrival to the emergency department?,,
+current_chemotherapy,Is the patient on chemotherapy currently?,,
+bleeding_disorder,Does the patient have an underlying bleeding disorder?,,
+temp1,What was the patient’s temperature on admission?,,
+Head_severity,What is the head injury severity (Abbreviated Injury Score)?,0-5,"No injury
+Minimal injury (e.g. mild concussion, no loss of consciousness)
+Mild injury (e.g. brief loss of consciousness; <0.6cm epidural/subdural/subarachnoid hematoma)
+Moderate injury (e.g. intracranial hemorrhage not further specified)
+Severe injury (e.g. subdural/epidural 0.6-1cm)
+Catastrophic injury (e.g. subdural/epidural >1cm thick)"
+Spine_severity,What is the spine injury severity (Abbreviated Injury Score)?,0-5,"No injury
+Minimal injury (e.g. ligamentous injury with no spinal cord injury)
+Mild injury (e.g. vertebral fracture without cord involvement)
+Moderate injury (e.g. cord contusion with transient neuro signs, with or without fracture)
+Severe injury (e.g. incomplete cord syndrome with some retained function)
+Catastrophic injury (e.g. complete cord syndrome with quadriplegia or paraplegia)"
+Thorax_severity,What is the thorax injury severity (Abbreviated Injury Score)?,0-5,"No injury
+Minimal injury (e.g. 1 rib fracture)
+Mild injury (e.g. 2 rib fractures, pneumothorax not further specified)
+Moderate injury (e.g. more than 3 rib fractures, flail chest)
+Severe injury (e.g. >5 flail ribs, pneumothorax with >50% collapse, major hemothorax >1000cc blood loss)
+Catastrophic injury (e.g. bilateral flail chest)"
+Abdomen_severity,What is the abdominal injury severity (Abbreviated Injury Score)?,0-5,"No injury
+Minimal injury (e.g. contusion or <0.5cm laceration to ovary, penis, prostate)
+Mild injury (e.g. <1cm laceration to renal cortex, <3cm liver laceration)
+Moderate injury (e.g. >1cm renal laceration with no collecting system involvement, >3cm liver laceration)
+Severe injury (e.g. renal laceration that extends into the collecting system, multiple >3cm liver lacerations)
+Catastrophic injury (e.g. avulsion of the hilum of the kidney, liver parenchymal disruption >75% of hepatic lobe)"
+Lower_Extremity_severity,What is the lower extremity injury severity (Abbreviated Injury Score)?,0-5,"No injury
+Minimal injury (e.g., toe fracture)
+Mild injury (e.g., tibia fracture, tarsal bone fracture) 
+Moderate injury (e.g., femur fracture, transection of the femoral vessels, penetrating injury at or above the knee with blood loss >20% by volume)
+Severe injury (e.g., unilateral traumatic amputation at or above the knee, crush injury at hip or at buttock)
+Catastrophic injury (e.g., bilateral traumatic amputation above the knee,)"
+Upper_Extremity_severity,What is the upper extremity injury severity (Abbreviated Injury Score)?,,"No injury
+Minimal injury (e.g., finger fracture)
+Mild injury (e.g., humerus shaft fracture, carpal bone fracture) 
+Moderate injury (e.g., major rupture or transection of the axillary artery with blood loss >20% by volume, skin or subcutaneous tissue laceration with blood loss >20% by volume)
+Severe injury (e.g., unilateral traumatic amputation at or above elbow, crush injury at or above elbow)
+Catastrophic injury (e.g., bilateral traumatic amputation at or above elbow)"
+Face_severity,What is the face injury severity (Abbreviated Injury Score)?,,"No injury
+Minimal injury (e.g., inner or middle ear injury, retinal laceration, closed mandibular fracture)
+Mild injury (e.g., eye avulsion, scleral laceration, orbit fracture) 
+Moderate injury (e.g., LeFort III fracture, major transection of external carotid artery branches with blood loss >20% by volume)
+Severe injury (e.g., massive destruction of whole face including both eyes)
+Catastrophic injury (N/A)"
+Neck_severity,What is the neck injury severity (Abbreviated Injury Score)?,,"No injury
+Minimal injury (e.g., superficial skin laceration)
+Mild injury (e.g., external carotid artery laceration with blood loss <20% by volume, major skin laceration >10cm long and into subcutaneous tissue) 
+Moderate injury (e.g., tracheal full-thickness perforation, retropharyngeal hematoma with >75% airway involvement, internal carotid artery laceration with blood loss <20% by volume)
+Severe injury (e.g., tracheal avulsion or transection, esophageal full-thickness perforation)
+Catastrophic injury (e.g., esophageal avulsion or rupture)"
+Pelvis_Perineum_severity,What is the pelvis/perineum injury severity (Abbreviated Injury Score)?,,"No injury
+Minimal injury (N/A)
+Mild injury (e.g., acetabulum fracture) 
+Moderate injury (e.g., pelvic ring fracture)
+Severe injury (e.g., pelvic fracture with <20% blood loss)
+Catastrophic injury (e.g., pelvic fracture with >20% blood loss)"
+eddisp,What is the patient's emergency department disposition?,,
+drug_use_disorder,Does the patient have a drug use disorder?,,
+alcohol_use_disorder,Does the patient have a alcohol use disorder?,,
+morbidity,Did the patient develop any in-hospital complications?,,
+bleeding_disorder,Does that patient have a bleeding disorder?,,
+temp1,What was the patient's temperature on arrival to the hospital? (in Celsius),,
+rr1,What was the patient's respiratory rate on arrival to the hospital?,,
+External_severity,What is the external injury severity (Abbreviated Injury Score)?,,
+,,,
+,,,
+,,,
